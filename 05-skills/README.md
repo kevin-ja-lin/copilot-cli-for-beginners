@@ -552,9 +552,7 @@ To keep your local plugin catalog current, refresh it with:
 copilot plugin marketplace update
 ```
 
-> 💡 **When to run this**: If you notice that new plugins aren't appearing in `/plugin marketplace`, running this command fetches the latest catalog from the marketplace server.
-
-Plugins can bundle multiple capabilities together - a single plugin might include related skills, agents, and MCP server configurations that work together.
+Plugins can bundle multiple capabilities together. A single plugin might include related skills, agents, and MCP server configurations that work together.
 
 ### Community Skill Repositories
 
