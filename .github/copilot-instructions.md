@@ -29,7 +29,7 @@ These patterns were mined from actual PR review feedback and represent recurring
 
 - **Primary sample**: Always use `samples/book-app-project/` (Python) for examples in chapters.
 - **Test framework**: pytest — test files go in `samples/book-app-project/tests/` and follow `test_*.py` naming.
-- **Python version**: 3.10+ (per `pyproject.toml`).
+- **Python version**: 3.10+ (per `samples/book-app-project/pyproject.toml`).
 - **Intentional bugs**: Files in `samples/book-app-buggy/` and `samples/buggy-code/` contain **deliberate bugs** for exercises. Never fix them.
 
 ## Chapter Structure
